@@ -1,5 +1,4 @@
-import { deflate } from "zlib"
-
+'use client'
 const Error = () => {
     return (
         <div>
